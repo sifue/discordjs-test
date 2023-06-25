@@ -1,4 +1,9 @@
 # Discord Botの作り方
+pingコマンドだけを実装したサンプル。
+
+![pingコマンドの動作](./image/ping.png)
+
+
 https://discordjs.guide/creating-your-bot/
 
 以上の記事の通り。日本語の記事もあるがちょっと情報が古いかもしれない。
