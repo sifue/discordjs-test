@@ -11,7 +11,7 @@ https://discordjs.guide/creating-your-bot/
 https://www.geeklibrary.jp/counter-attack/discord-js-bot/
 
 
-config.jsonに
+カレントディレクトリのconfig.jsonファイルを新たに作成して、
 
 ```
 {
@@ -21,7 +21,7 @@ config.jsonに
 }
 ```
 
-を設定して保存。tokenは https://discord.com/developers/applications でアプリを作成してregenerateすることで表示される。clientIdは作成したアプリケーションのページで見れる。ボットの情報を作る。
+を記述して保存。xxxxのところは自分のトークンなどを入れる。tokenは https://discord.com/developers/applications でアプリを作成してregenerateすることで表示される。clientIdは作成したアプリケーションのページで見れる。ボットの情報を作る必要もある。
 
 guildIdは、サーバーIDのこと。Discordを設定、詳細設定から開発者モードをオンにしてサーバーIDをコピー。
 
