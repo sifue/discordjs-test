@@ -1,8 +1,7 @@
 # Discord Botの作り方
-pingコマンドだけを実装したサンプル。
+pingコマンドだけを実装したサンプル。スラッシュコマンドで /ping ができる。
 
 ![pingコマンドの動作](./image/ping.png)
-
 
 https://discordjs.guide/creating-your-bot/
 
@@ -10,6 +9,15 @@ https://discordjs.guide/creating-your-bot/
 
 https://www.geeklibrary.jp/counter-attack/discord-js-bot/
 
+- Node.js v18.16.1
+
+以上で動作確認済み。カレントディレクトリで
+
+```
+npm install
+```
+
+で discord.js がインストールされる。
 
 カレントディレクトリのconfig.jsonファイルを新たに作成して、
 
