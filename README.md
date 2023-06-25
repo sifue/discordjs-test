@@ -21,7 +21,7 @@ config.jsonに
 }
 ```
 
-を設定して保存。tokenは https://discord.com/developers/applications でアプリを作成。regenerateする。clientIdは作成したアプリケーションのページで見れる。ボットの情報を作る。
+を設定して保存。tokenは https://discord.com/developers/applications でアプリを作成してregenerateすることで表示される。clientIdは作成したアプリケーションのページで見れる。ボットの情報を作る。
 
 guildIdは、サーバーIDのこと。Discordを設定、詳細設定から開発者モードをオンにしてサーバーIDをコピー。
 
